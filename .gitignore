@@ -1,0 +1,9 @@
+# Ignore object files
+
+# Ignore executables (assumes executables have no extension)
+*
+!*/
+!*.*
+!declaration
+
+.DS_Store
