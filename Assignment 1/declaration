@@ -1,0 +1,19 @@
+I have read the CSE department’s anti-cheating policy available at https://www.cse.iitk.ac.in/pages/AntiCheatingPolicy.html. I understand that plagiarism is a severe offense. I have solved this assignment myself without indulging in any plagiarism. If my submission is found to be plagiarized from the internet, fellow students, etc., then strict action can be taken against me. 
+Danish Mehmood, 210297
+
+Resources:
+
+    Part1:
+        1. https://en.wikibooks.org/wiki/A_Little_C_Primer/C_Command_Line_Arguments : To take arguments in a C program
+        2. https://cplusplus.com/reference/cstring/ : String manipulation functions
+        3. https://www.ibm.com/docs/en/i/7.4?topic=functions-atoi-convert-character-string-integer : ato* class of functions
+        4. Man pages: `fork`, `execvp`
+
+    Part2:
+        1. Man pages: `stat`, `lstat`, `readdir`, `opendir`
+        2. Class illustration of `pipe` FIFO queue and file-descriptor tables
+
+    Part3:
+        1. Man pages: `mmap`
+        2. https://moss.cs.iit.edu/cs351/slides/slides-malloc.pdf : A Naive implementation of malloc, free and realloc
+        3. https://dotnettutorials.net/lesson/void-pointer-in-c/ : To use void* in C
